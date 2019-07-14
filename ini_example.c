@@ -1,5 +1,4 @@
 /* Example: parse a simple configuration file */
-/*2019.07.14*/
 
 #include <stdio.h>
 #include <stdlib.h>
